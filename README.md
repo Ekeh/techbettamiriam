@@ -1,2 +1,2 @@
-# techbettamirriam
-Techbetta Technical Assessment for Marriam
+# Techbetta Miriam
+Techbetta Technical Assessment for Mariam
